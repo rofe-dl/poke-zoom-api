@@ -1,0 +1,3172 @@
+{
+    "494": {
+        "name": "victini",
+        "id": 494,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/494.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "495": {
+        "name": "snivy",
+        "id": 495,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/495.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "496": {
+        "name": "servine",
+        "id": 496,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/496.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "497": {
+        "name": "serperior",
+        "id": 497,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/497.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "498": {
+        "name": "tepig",
+        "id": 498,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/498.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "499": {
+        "name": "pignite",
+        "id": 499,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/499.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "500": {
+        "name": "emboar",
+        "id": 500,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/500.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "501": {
+        "name": "oshawott",
+        "id": 501,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/501.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "502": {
+        "name": "dewott",
+        "id": 502,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/502.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "503": {
+        "name": "samurott",
+        "id": 503,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/503.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "504": {
+        "name": "patrat",
+        "id": 504,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/504.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "505": {
+        "name": "watchog",
+        "id": 505,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/505.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "506": {
+        "name": "lillipup",
+        "id": 506,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/506.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "507": {
+        "name": "herdier",
+        "id": 507,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/507.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "508": {
+        "name": "stoutland",
+        "id": 508,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/508.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "509": {
+        "name": "purrloin",
+        "id": 509,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/509.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "510": {
+        "name": "liepard",
+        "id": 510,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/510.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "511": {
+        "name": "pansage",
+        "id": 511,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/511.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "512": {
+        "name": "simisage",
+        "id": 512,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/512.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "513": {
+        "name": "pansear",
+        "id": 513,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/513.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "514": {
+        "name": "simisear",
+        "id": 514,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/514.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "515": {
+        "name": "panpour",
+        "id": 515,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/515.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "516": {
+        "name": "simipour",
+        "id": 516,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/516.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "517": {
+        "name": "munna",
+        "id": 517,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/517.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "518": {
+        "name": "musharna",
+        "id": 518,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/518.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "519": {
+        "name": "pidove",
+        "id": 519,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/519.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "520": {
+        "name": "tranquill",
+        "id": 520,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/520.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "521": {
+        "name": "unfezant",
+        "id": 521,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/521.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "522": {
+        "name": "blitzle",
+        "id": 522,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/522.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "523": {
+        "name": "zebstrika",
+        "id": 523,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/523.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "524": {
+        "name": "roggenrola",
+        "id": 524,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/524.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "525": {
+        "name": "boldore",
+        "id": 525,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/525.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "526": {
+        "name": "gigalith",
+        "id": 526,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/526.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "527": {
+        "name": "woobat",
+        "id": 527,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/527.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "528": {
+        "name": "swoobat",
+        "id": 528,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/528.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "529": {
+        "name": "drilbur",
+        "id": 529,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/529.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            }
+        ]
+    },
+    "530": {
+        "name": "excadrill",
+        "id": 530,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/530.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "531": {
+        "name": "audino",
+        "id": 531,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/531.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "532": {
+        "name": "timburr",
+        "id": 532,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/532.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "533": {
+        "name": "gurdurr",
+        "id": 533,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/533.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "534": {
+        "name": "conkeldurr",
+        "id": 534,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/534.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "535": {
+        "name": "tympole",
+        "id": 535,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/535.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "536": {
+        "name": "palpitoad",
+        "id": 536,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/536.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            }
+        ]
+    },
+    "537": {
+        "name": "seismitoad",
+        "id": 537,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/537.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            }
+        ]
+    },
+    "538": {
+        "name": "throh",
+        "id": 538,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/538.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "539": {
+        "name": "sawk",
+        "id": 539,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/539.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "540": {
+        "name": "sewaddle",
+        "id": 540,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/540.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "541": {
+        "name": "swadloon",
+        "id": 541,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/541.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "542": {
+        "name": "leavanny",
+        "id": 542,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/542.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "543": {
+        "name": "venipede",
+        "id": 543,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/543.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "544": {
+        "name": "whirlipede",
+        "id": 544,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/544.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "545": {
+        "name": "scolipede",
+        "id": 545,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/545.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "546": {
+        "name": "cottonee",
+        "id": 546,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/546.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            }
+        ]
+    },
+    "547": {
+        "name": "whimsicott",
+        "id": 547,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/547.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fairy",
+                    "url": "https://pokeapi.co/api/v2/type/18/"
+                }
+            }
+        ]
+    },
+    "548": {
+        "name": "petilil",
+        "id": 548,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/548.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "549": {
+        "name": "lilligant",
+        "id": 549,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/549.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "550": {
+        "name": "basculin-red-striped",
+        "id": 550,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/550.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "551": {
+        "name": "sandile",
+        "id": 551,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/551.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "552": {
+        "name": "krokorok",
+        "id": 552,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/552.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "553": {
+        "name": "krookodile",
+        "id": 553,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/553.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "554": {
+        "name": "darumaka",
+        "id": 554,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/554.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "555": {
+        "name": "darmanitan-standard",
+        "id": 555,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/555.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "556": {
+        "name": "maractus",
+        "id": 556,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/556.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "557": {
+        "name": "dwebble",
+        "id": 557,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/557.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "558": {
+        "name": "crustle",
+        "id": 558,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/558.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "559": {
+        "name": "scraggy",
+        "id": 559,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/559.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "560": {
+        "name": "scrafty",
+        "id": 560,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/560.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "561": {
+        "name": "sigilyph",
+        "id": 561,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/561.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "562": {
+        "name": "yamask",
+        "id": 562,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/562.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            }
+        ]
+    },
+    "563": {
+        "name": "cofagrigus",
+        "id": 563,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/563.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            }
+        ]
+    },
+    "564": {
+        "name": "tirtouga",
+        "id": 564,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/564.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "565": {
+        "name": "carracosta",
+        "id": 565,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/565.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            }
+        ]
+    },
+    "566": {
+        "name": "archen",
+        "id": 566,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/566.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "567": {
+        "name": "archeops",
+        "id": 567,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/567.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "568": {
+        "name": "trubbish",
+        "id": 568,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/568.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "569": {
+        "name": "garbodor",
+        "id": 569,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/569.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "570": {
+        "name": "zorua",
+        "id": 570,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/570.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "571": {
+        "name": "zoroark",
+        "id": 571,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/571.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            }
+        ]
+    },
+    "572": {
+        "name": "minccino",
+        "id": 572,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/572.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "573": {
+        "name": "cinccino",
+        "id": 573,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/573.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "574": {
+        "name": "gothita",
+        "id": 574,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/574.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "575": {
+        "name": "gothorita",
+        "id": 575,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/575.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "576": {
+        "name": "gothitelle",
+        "id": 576,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/576.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "577": {
+        "name": "solosis",
+        "id": 577,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/577.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "578": {
+        "name": "duosion",
+        "id": 578,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/578.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "579": {
+        "name": "reuniclus",
+        "id": 579,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/579.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "580": {
+        "name": "ducklett",
+        "id": 580,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/580.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "581": {
+        "name": "swanna",
+        "id": 581,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/581.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "582": {
+        "name": "vanillite",
+        "id": 582,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/582.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "583": {
+        "name": "vanillish",
+        "id": 583,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/583.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "584": {
+        "name": "vanilluxe",
+        "id": 584,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/584.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "585": {
+        "name": "deerling",
+        "id": 585,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/585.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "586": {
+        "name": "sawsbuck",
+        "id": 586,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/586.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            }
+        ]
+    },
+    "587": {
+        "name": "emolga",
+        "id": 587,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/587.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "588": {
+        "name": "karrablast",
+        "id": 588,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/588.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            }
+        ]
+    },
+    "589": {
+        "name": "escavalier",
+        "id": 589,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/589.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "590": {
+        "name": "foongus",
+        "id": 590,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/590.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "591": {
+        "name": "amoonguss",
+        "id": 591,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/591.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    },
+    "592": {
+        "name": "frillish-male",
+        "id": 592,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/592.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            }
+        ]
+    },
+    "593": {
+        "name": "jellicent-male",
+        "id": 593,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/593.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            }
+        ]
+    },
+    "594": {
+        "name": "alomomola",
+        "id": 594,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/594.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            }
+        ]
+    },
+    "595": {
+        "name": "joltik",
+        "id": 595,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/595.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "596": {
+        "name": "galvantula",
+        "id": 596,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/596.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "597": {
+        "name": "ferroseed",
+        "id": 597,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/597.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "598": {
+        "name": "ferrothorn",
+        "id": 598,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/598.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "599": {
+        "name": "klink",
+        "id": 599,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/599.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "600": {
+        "name": "klang",
+        "id": 600,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/600.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "601": {
+        "name": "klinklang",
+        "id": 601,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/601.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "602": {
+        "name": "tynamo",
+        "id": 602,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/602.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "603": {
+        "name": "eelektrik",
+        "id": 603,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/603.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "604": {
+        "name": "eelektross",
+        "id": 604,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/604.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "605": {
+        "name": "elgyem",
+        "id": 605,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/605.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "606": {
+        "name": "beheeyem",
+        "id": 606,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/606.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "607": {
+        "name": "litwick",
+        "id": 607,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/607.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "608": {
+        "name": "lampent",
+        "id": 608,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/608.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "609": {
+        "name": "chandelure",
+        "id": 609,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/609.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "610": {
+        "name": "axew",
+        "id": 610,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/610.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "611": {
+        "name": "fraxure",
+        "id": 611,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/611.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "612": {
+        "name": "haxorus",
+        "id": 612,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/612.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "613": {
+        "name": "cubchoo",
+        "id": 613,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/613.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "614": {
+        "name": "beartic",
+        "id": 614,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/614.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "615": {
+        "name": "cryogonal",
+        "id": 615,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/615.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "616": {
+        "name": "shelmet",
+        "id": 616,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/616.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            }
+        ]
+    },
+    "617": {
+        "name": "accelgor",
+        "id": 617,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/617.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            }
+        ]
+    },
+    "618": {
+        "name": "stunfisk",
+        "id": 618,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/618.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "619": {
+        "name": "mienfoo",
+        "id": 619,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/619.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "620": {
+        "name": "mienshao",
+        "id": 620,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/620.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "621": {
+        "name": "druddigon",
+        "id": 621,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/621.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "622": {
+        "name": "golett",
+        "id": 622,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/622.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            }
+        ]
+    },
+    "623": {
+        "name": "golurk",
+        "id": 623,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/623.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ghost",
+                    "url": "https://pokeapi.co/api/v2/type/8/"
+                }
+            }
+        ]
+    },
+    "624": {
+        "name": "pawniard",
+        "id": 624,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/624.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "625": {
+        "name": "bisharp",
+        "id": 625,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/625.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "626": {
+        "name": "bouffalant",
+        "id": 626,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/626.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            }
+        ]
+    },
+    "627": {
+        "name": "rufflet",
+        "id": 627,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/627.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "628": {
+        "name": "braviary",
+        "id": 628,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/628.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "629": {
+        "name": "vullaby",
+        "id": 629,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/629.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "630": {
+        "name": "mandibuzz",
+        "id": 630,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/630.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "631": {
+        "name": "heatmor",
+        "id": 631,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/631.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "632": {
+        "name": "durant",
+        "id": 632,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/632.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    },
+    "633": {
+        "name": "deino",
+        "id": 633,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/633.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "634": {
+        "name": "zweilous",
+        "id": 634,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/634.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "635": {
+        "name": "hydreigon",
+        "id": 635,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/635.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dark",
+                    "url": "https://pokeapi.co/api/v2/type/17/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            }
+        ]
+    },
+    "636": {
+        "name": "larvesta",
+        "id": 636,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/636.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "637": {
+        "name": "volcarona",
+        "id": 637,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/637.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "638": {
+        "name": "cobalion",
+        "id": 638,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/638.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "639": {
+        "name": "terrakion",
+        "id": 639,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/639.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "rock",
+                    "url": "https://pokeapi.co/api/v2/type/6/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "640": {
+        "name": "virizion",
+        "id": 640,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/640.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "641": {
+        "name": "tornadus-incarnate",
+        "id": 641,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/641.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "642": {
+        "name": "thundurus-incarnate",
+        "id": 642,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/642.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "643": {
+        "name": "reshiram",
+        "id": 643,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/643.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fire",
+                    "url": "https://pokeapi.co/api/v2/type/10/"
+                }
+            }
+        ]
+    },
+    "644": {
+        "name": "zekrom",
+        "id": 644,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/644.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "electric",
+                    "url": "https://pokeapi.co/api/v2/type/13/"
+                }
+            }
+        ]
+    },
+    "645": {
+        "name": "landorus-incarnate",
+        "id": 645,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/645.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "ground",
+                    "url": "https://pokeapi.co/api/v2/type/5/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "flying",
+                    "url": "https://pokeapi.co/api/v2/type/3/"
+                }
+            }
+        ]
+    },
+    "646": {
+        "name": "kyurem",
+        "id": 646,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/646.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragon",
+                    "url": "https://pokeapi.co/api/v2/type/16/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "ice",
+                    "url": "https://pokeapi.co/api/v2/type/15/"
+                }
+            }
+        ]
+    },
+    "647": {
+        "name": "keldeo-ordinary",
+        "id": 647,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/647.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "water",
+                    "url": "https://pokeapi.co/api/v2/type/11/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fighting",
+                    "url": "https://pokeapi.co/api/v2/type/2/"
+                }
+            }
+        ]
+    },
+    "648": {
+        "name": "meloetta-aria",
+        "id": 648,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/648.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal",
+                    "url": "https://pokeapi.co/api/v2/type/1/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psychic",
+                    "url": "https://pokeapi.co/api/v2/type/14/"
+                }
+            }
+        ]
+    },
+    "649": {
+        "name": "genesect",
+        "id": 649,
+        "sprites": {
+            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/649.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
+        },
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "bug",
+                    "url": "https://pokeapi.co/api/v2/type/7/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "steel",
+                    "url": "https://pokeapi.co/api/v2/type/9/"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+FROM golang:1.26-alpine
+
+WORKDIR /app
+
+# Install git, build tools, and air for hot-reloading
+RUN apk add --no-cache git build-base just
+
+COPY go.mod go.sum ./
+RUN go mod download
+
+RUN go install github.com/air-verse/air@latest
+
+EXPOSE 8080
+
+CMD ["just", "dev"]
