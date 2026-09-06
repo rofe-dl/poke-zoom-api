@@ -33,7 +33,7 @@ type PokemonJSON struct {
 }
 
 func main() {
-	host := getEnv("DB_HOST_WITHOUT_DOCKER", "localhost")
+	host := getEnv("DB_HOST", "localhost")
 	port := getEnv("DB_PORT", "5432")
 	user := getEnv("DB_USER", "poke_zoom")
 	password := getEnv("DB_PASSWORD", "poke_zoom")
@@ -48,6 +48,13 @@ func main() {
 
 	if err := db.Ping(); err != nil {
 		log.Fatalf("Database unreachable: %v", err)
+	}
+
+	var count int64
+	err = db.QueryRow("SELECT COUNT(*) FROM pokemon").Scan(&count)
+	if err == nil && count > 0 {
+		fmt.Printf("Database already contains %d pokemon. Skipping seeding.\n", count)
+		return
 	}
 
 	for i := 1; i <= 5; i++ {

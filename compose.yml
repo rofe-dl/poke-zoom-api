@@ -19,6 +19,28 @@ services:
       timeout: 5s
       retries: 5
 
+  # Temporary service that carries out DB migrations and seeding
+  migrate:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    environment:
+      - DB_HOST=db
+    command: >
+      sh -c "
+        echo 'Running database migrations...' &&
+        just migrate-up &&
+        echo 'Seeding database...' &&
+        go run database/main.go
+      "
+    depends_on:
+      db:
+        condition: service_healthy
+
   app:
     build:
       context: .

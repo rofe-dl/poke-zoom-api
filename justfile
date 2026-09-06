@@ -16,7 +16,7 @@ dev:
 ### Migrations
 
 # TODO: Make sslmode depend on env("ENV")
-DB_URL := "postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST_WITHOUT_DOCKER}:${DB_PORT}/${DB_NAME}?sslmode=disable"
+DB_URL := "postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}?sslmode=disable"
 
 # Apply migrations
 [group('Migration')]
