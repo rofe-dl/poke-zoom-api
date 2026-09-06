@@ -28,8 +28,6 @@ services:
       - .:/app
     env_file:
       - .env
-    environment:
-      - DB_HOST=db
     command: >
       sh -c "
         echo 'Running database migrations...' &&

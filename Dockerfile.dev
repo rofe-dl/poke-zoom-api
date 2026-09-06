@@ -11,6 +11,9 @@ RUN go mod download
 RUN go install github.com/air-verse/air@latest
 RUN go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@latest
 
+# Disable git version stamping by Go as .git is in .dockerignore, so it will fail always
+RUN go env -w GOFLAGS=-buildvcs=false
+
 EXPOSE 8080
 
 CMD ["just", "dev"]
