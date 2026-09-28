@@ -1,2 +1,5 @@
 .env
 tmp/
+pokemon_py_scripts/.env
+pokemon_py_scripts/patches*
+pokemon_py_scripts/pokemon_data
