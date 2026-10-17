@@ -2,6 +2,8 @@ package services
 
 import (
 	"fmt"
+	"math/rand/v2"
+	"net/http"
 
 	"github.com/rofe-dl/poke-zoom-api/models"
 	"github.com/rofe-dl/poke-zoom-api/utils"
@@ -48,4 +50,30 @@ func (service PokemonService) FetchAllPokemon(queryParams *models.PokemonListQue
 	}
 
 	return pokemon, totalCount, nil
+}
+
+func (service PokemonService) GetRandomCroppedPokemon() (string, error) {
+	const TOTAL_COUNT = 649
+
+	// TODO: Keep track of duplicates
+	randomIndex := rand.IntN(TOTAL_COUNT + 1)
+
+	var pokemon models.Pokemon
+
+	result := service.DB.First(&pokemon, randomIndex)
+
+	if result.RowsAffected == 0 {
+		return "", utils.NewHTTPError(http.StatusNotFound, "Pokemon not found")
+	} else if result.Error != nil {
+		return "", utils.NewHTTPError(http.StatusInternalServerError, "Error fetching random Pokemon", result.Error)
+	}
+
+	base64EncodedImage, err := utils.GetRandomImageCrop(pokemon.OfficialArtwork, 128)
+
+	if err != nil {
+		return "", err
+	}
+
+	return base64EncodedImage, nil
+
 }

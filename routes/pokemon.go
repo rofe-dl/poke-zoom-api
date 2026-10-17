@@ -36,4 +36,24 @@ func registerPokemonRoutes(api huma.API, db *gorm.DB) {
 
 		return result, nil
 	})
+
+	huma.Register(api, huma.Operation{
+		OperationID: "GetRandomCroppedPokemon",
+		Method:      http.MethodGet,
+		Path:        PREFIX + "/random",
+		Summary:     "Get random cropped pokemon",
+		Tags:        []string{"Pokemon"},
+		Description: "Retrieves a base64 encoded image of a random Pokemon that has been cropped",
+	}, func(ctx context.Context, input *struct{}) (*models.RandomCroppedPokemonResponse, error) {
+		base64Image, err := service.GetRandomCroppedPokemon()
+
+		if err != nil {
+			return nil, utils.HandleHttpError(err)
+		}
+
+		result := &models.RandomCroppedPokemonResponse{}
+		result.Body.Base64Image = base64Image
+
+		return result, nil
+	})
 }

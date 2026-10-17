@@ -23,6 +23,12 @@ type PokemonListResponse struct {
 	}
 }
 
+type RandomCroppedPokemonResponse struct {
+	Body struct {
+		Base64Image string `json:"base_64_image"`
+	}
+}
+
 type PokemonIDInput struct {
 	ID uint `path:"id" doc:"ID of the Pokemon" example:"1"`
 }
