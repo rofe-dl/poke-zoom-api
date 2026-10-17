@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   db:
     image: postgres:16-alpine
@@ -26,6 +24,9 @@ services:
       dockerfile: Dockerfile.dev
     volumes:
       - .:/app
+    # Overrides DB_HOST from .env so the container talks to the `db` service
+    environment:
+      DB_HOST: db
     env_file:
       - .env
     command: >
@@ -43,11 +44,16 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.dev
+    # Run as the host user so files written to the bind mount (e.g. tmp/) aren't root-owned
+    user: "${HOST_UID:-1000}:${HOST_GID:-1000}"
     restart: always
     ports:
       - "8080:8080"
     volumes:
       - .:/app
+    # Overrides DB_HOST from .env so the container talks to the `db` service
+    environment:
+      DB_HOST: db
     env_file:
       - .env
     depends_on:

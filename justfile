@@ -13,6 +13,37 @@ dev:
     @echo "Running gin server with hot reload..."
     air
 
+### Database (host dev: db in docker, api on host)
+
+# Start the database container and wait until it is ready
+[group('Database')]
+db-up:
+    docker compose up -d db
+    @echo "Waiting for database to be ready..."
+    @until docker compose exec -T db pg_isready -U "$DB_USER" -d "$DB_NAME" > /dev/null; do sleep 1; done
+
+# Stop the database container (data volume is kept)
+[group('Database')]
+db-down:
+    docker compose stop db
+
+[group('Database')]
+db-logs:
+    docker compose logs -f db
+
+# Seed Pokemon data (only after fresh DB + migrations)
+[group('Database')]
+seed:
+    @echo "Seeding database..."
+    go run database/main.go
+
+# One-time dev setup: start db, migrate, seed
+[group('Database')]
+db-init:
+    just db-up
+    just migrate-up
+    just seed
+
 ### Migrations
 
 # TODO: Make sslmode depend on env("ENV")
