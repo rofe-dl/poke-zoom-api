@@ -60,7 +60,7 @@ func GetRandomImageCrop(imageURL string, cropSize int) (string, error) {
 		return "", NewHTTPError(http.StatusInternalServerError, "Error encoding cropped Pokemon sprite.", err)
 	}
 
-	encoded := base64.StdEncoding.EncodeToString(buf.Bytes())
+	encoded := "data:image/jpeg;base64," + base64.StdEncoding.EncodeToString(buf.Bytes())
 
 	return encoded, nil
 }

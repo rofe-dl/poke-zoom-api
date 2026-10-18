@@ -6,9 +6,9 @@ import (
 
 	"github.com/danielgtaylor/huma/v2"
 	"github.com/danielgtaylor/huma/v2/adapters/humagin"
+	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-
 	"github.com/rofe-dl/poke-zoom-api/routes"
 )
 
@@ -22,6 +22,15 @@ func main() {
 	db := connectDatabase()
 
 	r := gin.Default()
+
+	// TODO: Update the CORS config
+	c := cors.New(cors.Config{
+		AllowOrigins:     []string{"*"},
+		AllowMethods:     []string{"GET", "POST", "PATCH", "DELETE", "OPTIONS"},
+		AllowCredentials: true,
+	})
+
+	r.Use(c)
 
 	routerGroup := r.Group("/api/v1")
 
