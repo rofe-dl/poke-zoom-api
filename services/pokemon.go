@@ -1,7 +1,6 @@
 package services
 
 import (
-	"fmt"
 	"math/rand/v2"
 	"net/http"
 
@@ -32,7 +31,7 @@ func (service PokemonService) FetchAllPokemon(queryParams *models.PokemonListQue
 		Count(&totalCount)
 
 	if countResult.Error != nil {
-		return nil, 0, countResult.Error
+		return nil, 0, utils.NewHTTPError(http.StatusInternalServerError, "Error fetching count of Pokemon", countResult.Error)
 	}
 
 	result := service.DB.
@@ -44,9 +43,7 @@ func (service PokemonService) FetchAllPokemon(queryParams *models.PokemonListQue
 
 	if result.Error != nil {
 		// TODO: add some logger
-		fmt.Printf("Error fetching pokemon: %v", result.Error)
-
-		return nil, 0, result.Error
+		return nil, 0, utils.NewHTTPError(http.StatusInternalServerError, "Error fetching all Pokemon", result.Error)
 	}
 
 	return pokemon, totalCount, nil
