@@ -18,13 +18,11 @@ type PokemonCrop struct {
 	Game    Game    `json:"game" gorm:"constraint:OnUpdate:CASCADE,OnDelete:CASCADE"`
 }
 
+// coordinates are space separated "x1 y1 x2 y2" to represented top left and bottom right points of rectangle
 type CropCoordinates struct {
-	X1 int `json:"x1" example:"10" gorm:"not null"`
-	Y1 int `json:"y1" example:"20" gorm:"not null"`
-	X2 int `json:"x2" example:"50" gorm:"not null"`
-	Y2 int `json:"y2" example:"60" gorm:"not null"`
-	X3 int `json:"x3" example:"90" gorm:"not null"`
-	Y3 int `json:"y3" example:"100" gorm:"not null"`
+	EasyCoordinates   string `json:"easy_coordinates" gorm:"not null"`
+	MediumCoordinates string `json:"medium_coordinates" gorm:"not null"`
+	HardCoordinates   string `json:"hard_coordinates" gorm:"not null"`
 }
 
 func (PokemonCrop) TableName() string {
