@@ -9,7 +9,7 @@ type Game struct {
 	EndTime               time.Time     `json:"end_time"`
 	PokemonCrops          []PokemonCrop `json:"pokemon_crops"`
 	MaxDuration           int           `json:"max_duration" example:"300" gorm:"not null"`
-	CurrentCropID         string        `json:"current_crop_id" gorm:"not null"`
+	CurrentCropID         string        `json:"current_crop_id"`
 	CurrentCropDifficulty string        `json:"current_crop_difficulty" example:"medium" gorm:"not null;default:hard"`
 	CreatedAt             time.Time     `json:"created_at" gorm:"not null"`
 	UpdatedAt             time.Time     `json:"updated_at" gorm:"not null"`
